@@ -1,7 +1,7 @@
-<img align="center" alt="rakesh" width="100%" src="banner1.png">
+<img align="center" alt="rakesh" width="100%" src="banner1.png" />
 <h1 align="center">Hi 👋, I'm Rakesh Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="coding.gif">
+<img align="right" alt="coding" width="400" src="coding.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshsahu&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshsahu" /> </p>
 
