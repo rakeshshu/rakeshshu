@@ -7,6 +7,6 @@
 - 💬 Ask me about 👉**HTML, CSS ,JavaScript, PHP, Bootstrap, MySQL**
 
 - 📫 How to reach me 📧**r16398sahu@gmail.com**
-- See my Linkedin Profile - 👉 **https://www.linkedin.com/in/rakesh16398/**
+- See my Linkedin Profile  👉 **https://www.linkedin.com/in/rakesh16398/**
 
 - ⚡ Fun fact **I am funny😊**
